@@ -31,7 +31,7 @@
      inkscape:zoom="1"
      inkscape:rotation="-90"
      inkscape:cx="260"
-     inkscape:cy="56"
+     inkscape:cy="264"
      inkscape:window-width="1366"
      inkscape:window-height="705"
      inkscape:window-x="-8"
@@ -430,7 +430,10 @@
        id="g21789"
        transform="matrix(0.72447275,0,0,0.72447275,12.860569,138.61153)"
        style="fill:#ffffff;fill-opacity:1"
-       inkscape:label="txtMusica"><g
+       inkscape:label="txtMusica"
+       inkscape:export-filename="txtMusica.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><g
          fill="#000000"
          fill-opacity="1"
          id="g20702"
@@ -532,7 +535,10 @@
        id="g21819"
        transform="matrix(0.69640316,0,0,0.69640316,16.336403,126.13218)"
        style="fill:#ffffff;fill-opacity:1"
-       inkscape:label="txtEfeitos"><g
+       inkscape:label="txtEfeitos"
+       inkscape:export-filename="txtEfeitos.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><g
          fill="#000000"
          fill-opacity="1"
          id="g20750"
