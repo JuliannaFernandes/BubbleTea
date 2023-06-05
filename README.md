@@ -10,14 +10,14 @@ O principal objetivo do projeto é criar um jogo para auxiliar no desenvolviment
 
 Minijogos:
 
-- 🧩 Quebra-cabeças;
+- 🧩 Ligue os pontos;
 - 🎮 Jogo da memória;
-- 📞 Utilizar o discord como canal de comunicação entre as crianças.
+- 📞 Encontrar a figura correspondente.
 
 O que será desenvolvido:
 
 - 💭 Imaginação;
 - 👁‍🗨 Atenção;
 - 🧠 Raciocínio Lógico;
-- 🗪 Comunicação.
+- 🖐🏻 Coordenação motora.
 </p>
