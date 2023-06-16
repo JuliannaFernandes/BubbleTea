@@ -1,3 +1,0 @@
-Nome do projeto:BubbleT.E.A
-
-Para desfrutar do jogo é necessário ter a versão paga da ferramenta Construct 2 instalada em seu computador. Essa plataforma é fundamental para garantir uma experiência suave e completa do jogo, permitindo aproveitar ao máximo os recursos e funcionalidades oferecidos. 
