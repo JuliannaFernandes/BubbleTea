@@ -6,13 +6,11 @@
 
 ### Objetivo
 
-O principal objetivo do projeto é criar um jogo para auxiliar no desenvolvimento de crianças com o Transtorno do espectro do Autismo.
-
-Minijogos:
+O principal objetivo do projeto é um jogo que auxilie no desenvolvimento de crianças com o Transtorno do espectro do Autismo, o jogo conta com 3 minijogos sendo:
 
 - 🧩 Ligue os pontos;
 - 🎮 Jogo da memória;
-- 📞 Encontrar a figura correspondente.
+- 📞 Encontre a figura correspondente.
 
 O que será desenvolvido:
 
@@ -20,4 +18,5 @@ O que será desenvolvido:
 - 👁‍🗨 Atenção;
 - 🧠 Raciocínio Lógico;
 - 🖐🏻 Coordenação motora.
+- 💡 Criatividade.
 </p>
