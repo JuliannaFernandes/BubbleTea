@@ -20,3 +20,16 @@ O que será desenvolvido:
 - 🖐🏻 Coordenação motora.
 - 💡 Criatividade.
 </p>
+
+###Ferramentas utilizadas: 
+
+Para a programação do jogo:
+- Construct 2
+
+Para a criação dos personagens: 
+- Inskscape
+
+Para a gestão do projeto:
+- Trello
+
+Equipe: ANTHONY PATRICIO COSTA, FERNANDO CHAGAS PATRICIO, FILIPE LOURENÇO DA COSTA, JULIANNA BARBOSA FERNANDES, KAYANEE KESYLEY XAVIER SANTOS E LEANDRO MONTE DE LIMA SILVA 
