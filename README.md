@@ -32,4 +32,4 @@ Para a criação dos personagens:
 Para a gestão do projeto:
 - Trello
 
-Equipe: ANTHONY PATRICIO COSTA, FERNANDO CHAGAS PATRICIO, FILIPE LOURENÇO DA COSTA, JULIANNA BARBOSA FERNANDES, KAYANEE KESYLEY XAVIER SANTOS E LEANDRO MONTE DE LIMA SILVA 
+Equipe: Anthony Patricio Costa, Fernando Chagas Patricio, Filipe Lourenço Da Costa, Julianna Barbosa Fernandes, Kayanee Kesyley Xavier Santos e Leandro Monte De Lima Silva 
