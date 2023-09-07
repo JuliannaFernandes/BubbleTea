@@ -21,7 +21,7 @@ O que será desenvolvido:
 - 💡 Criatividade.
 </p>
 
-###Ferramentas utilizadas: 
+### Ferramentas utilizadas: 
 
 Para a programação do jogo:
 - Construct 2
